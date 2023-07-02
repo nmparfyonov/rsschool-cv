@@ -27,7 +27,9 @@ QA Engineer with experience in software testing, software development lifecycle 
 ---
 
 ## Responsibilities
+
 ### QA
+
 * Prioritization and planning test activities
 * Prototype testing
 * Test documentation creation
@@ -35,18 +37,24 @@ QA Engineer with experience in software testing, software development lifecycle 
 * Identifying and submitting bugs
 * Quality report creation
 * Bug fix verification
+
 ### Analyst
+
 * Identifying application requirements
 * Product documentation creation using Confluence
 * Use cases diagrams creation
+
 ### PM
+
 * JIRA/Asana setup and management
 * Oversaw a team of 4 developers
 * Backlog creation
 * Tasks assignment and completion control
 * Time control
 * Held daily/weekly meetings
+
 ### DevOps
+
 * CI/CD pipelines creation using:
   + AWS CodePipeline
   + Bitbucket pipelines
