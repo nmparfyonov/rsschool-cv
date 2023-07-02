@@ -1,1 +1,1 @@
-[https://nmparfyonov.github.io/rsschool-cv/cv](Link to CV)
+https://nmparfyonov.github.io/rsschool-cv/cv
