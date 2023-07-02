@@ -83,6 +83,6 @@ QA Engineer with experience in software testing, software development lifecycle 
 
 ## Code
 ### Codewars task "[Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)" solution:
-```
+```JavaScript
 const spinWords = str => str.split(' ').map(el=>el.length<5?el:el.split('').reverse().join('')).join(' ')
 ```
