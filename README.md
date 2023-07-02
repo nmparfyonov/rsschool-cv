@@ -1,1 +1,1 @@
-# my new cv file on branch gh-pages
+# (Link)[https://nmparfyonov.github.io/rsschool-cv/cv] to deployed CV

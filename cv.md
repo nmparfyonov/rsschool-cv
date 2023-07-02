@@ -1,4 +1,6 @@
 # Nikita Parfyonov
+![Nikita Parfyonov](https://avatars.githubusercontent.com/u/137721646)
+***
 ## Contact info:
 * Telegram: [NikitaParfyonov](https://t.me/NikitaParfyonov)
 * LinkedIn: [nikitaparfyonov](https://www.linkedin.com/in/nikitaparfyonov/)
@@ -6,6 +8,15 @@
 ***
 ## About
 QA Engineer with experience in software testing, software development lifecycle and project management, strong positive attitude to learning new tools and technologies, attention to details. Experienced in product documentation creation, setting up environments, diagrams creation, CI/CD pipelines creation, cloud deployments using AWS. Good analytical and logical skills.
+***
+## Skills
+* SQL
+* Docker
+* Git
+* AWS
+* JS, HTML, CSS
+* BASH, YAML
+* Terraform
 ***
 ## Responsibilities
 ### QA:
@@ -16,7 +27,7 @@ QA Engineer with experience in software testing, software development lifecycle 
 * Identifying and submitting bugs
 * Quality report creation
 * Bug fix verification
-* Analyst:
+### Analyst:
 * Identifying application requirements
 * Product documentation creation using Confluence
 * Use cases diagrams creation
@@ -55,3 +66,9 @@ QA Engineer with experience in software testing, software development lifecycle 
 ## Languages
 * English - B2
 * Russian - Native
+***
+## Code
+### Codewars task "[Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)" solution:
+```
+const spinWords = str => str.split(' ').map(el=>el.length<5?el:el.split('').reverse().join('')).join(' ')
+```
