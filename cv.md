@@ -1,11 +1,20 @@
 # Nikita Parfyonov
-![Nikita Parfyonov](https://avatars.githubusercontent.com/u/137721646) 
+![Nikita Parfyonov](https://avatars.githubusercontent.com/u/137721646)
+
+---
+
 ## Contact info
 * Telegram: [NikitaParfyonov](https://t.me/NikitaParfyonov)
 * LinkedIn: [nikitaparfyonov](https://www.linkedin.com/in/nikitaparfyonov/)
 * Discord: Nikita Parfyonov (@nmparfyonov)
+
+---
+
 ## About
 QA Engineer with experience in software testing, software development lifecycle and project management, strong positive attitude to learning new tools and technologies, attention to details. Experienced in product documentation creation, setting up environments, diagrams creation, CI/CD pipelines creation, cloud deployments using AWS. Good analytical and logical skills.
+
+---
+
 ## Skills
 * SQL
 * Docker
@@ -14,6 +23,9 @@ QA Engineer with experience in software testing, software development lifecycle 
 * JS, HTML, CSS
 * BASH, YAML
 * Terraform
+
+---
+
 ## Responsibilities
 ### QA
 * Prioritization and planning test activities
@@ -53,13 +65,22 @@ QA Engineer with experience in software testing, software development lifecycle 
   + Facebook OAuth
   + Stripe
   + Mail services
+
+---
+
 ## Education
 ### Belarusian National Technical University
 #### Bachelor of Engineering - BE
 ##### Sep 2014 - Jun 2019
+
+---
+
 ## Languages
 * English - B2
 * Russian - Native
+
+---
+
 ## Code
 ### Codewars task "[Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)" solution:
 ```
