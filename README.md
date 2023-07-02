@@ -1,1 +1,1 @@
-# (Link)[https://nmparfyonov.github.io/rsschool-cv/cv] to deployed CV
+(Link)[https://nmparfyonov.github.io/rsschool-cv/cv] to deployed CV
