@@ -1,4 +1,89 @@
-main {
-    background-color: aliceblue;
-    color: blue;
+body {
+    margin: auto;
+    width: 60%;
+    background-color: lightgray;
+}
+
+.me {
+    background-color: gray;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+h1 {
+    align-self: center;
+}
+
+h2 {
+    background-color: gray;
+}
+
+header {
+    background-color: gray;
+    color: black;
+    height: auto;
+}
+
+nav {
+    line-height: 5em;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.newlists ul:before {
+    content: attr(aria-label);
+    font-size: 120%;
+    font-weight: bold;
+    margin-left: -15px;
+}
+
+.contact {
+    background-color: lightgray;
+}
+
+.about {
+    background-color: lightgray;
+}
+
+.skills {
+    background-color: lightgray;
+}
+
+.responsibilities {
+    background-color: lightgray;
+}
+
+.education {
+    background-color: lightgray;
+}
+
+.languages {
+    background-color: lightgray;
+}
+
+.code {
+    background-color: lightgray;
+}
+
+footer {
+    background-color: gray;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    height: 10em;
 }
